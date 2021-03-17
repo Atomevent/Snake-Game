@@ -1,0 +1,10 @@
+Width,Height = 601, 601
+Row,Col = 60,60
+Square_size = 9
+Black = (0,0,0)
+White = (255,255,255)
+Blue = (0,0,255)
+Cyan =  (0,255,255)
+Red = (255,0,0)
+Light_red = (255,100,100)
+Green = (0,255,0)
